@@ -318,7 +318,7 @@ Hic tamen ille urbem Patavi sedesque locavit
 Teucrorum, et genti nomen dedit, armaque fixit 
 Troia; nunc placida compostus pace quiescit: 
 nos, tua progenies, caeli quibus adnuis arcem,    250 
-navibus (infandum!) amissis, unius ob iram 
+navibus infandum! amissis, unius ob iram 
 prodimur atque Italis longe disiungimur oris. 
 Hic pietatis honos? Sic nos in sceptra reponis?'
  
@@ -331,8 +331,8 @@ oscula libavit natae, dehinc talia fatur:
 fata tibi; cernes urbem et promissa Lavini 
 moenia, sublimemque feres ad sidera caeli 
 magnanimum Aenean; neque me sententia vertit.    260 
-Hic tibi (fabor enim, quando haec te cura remordet, 
-longius et volvens fatorum arcana movebo) 
+Hic tibi fabor enim, quando haec te cura remordet, 
+longius et volvens fatorum arcana movebo 
 bellum ingens geret Italia, populosque feroces 
 contundet, moresque viris et moenia ponet, 
 tertia dum Latio regnantem viderit aestas,    265 
@@ -788,8 +788,8 @@ per tot ducta viros antiqua ab origine gentis.
  
 
  
-Aeneas (neque enim patrius consistere mentem 
-passus amor) rapidum ad navis praemittit Achaten, 
+Aeneas neque enim patrius consistere mentem 
+passus amor rapidum ad navis praemittit Achaten, 
 Ascanio ferat haec, ipsumque ad moenia ducat;    645 
 omnis in Ascanio cari stat cura parentis. 
 Munera praeterea, Iliacis erepta ruinis, 
