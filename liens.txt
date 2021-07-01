@@ -1,0 +1,10 @@
+Liens utiles :
+
+Les diapos : https://slides.com/odysseuspolymetis/deck-d68e9c
+Les OCR : https://pdf.abbyy.com/fr/ ; https://readcoop.eu/transkribus/
+alpheios : alpheios.net/
+pyrrha : https://dh.chartes.psl.eu/pyrrha/
+gephi : https://gephi.org/
+tesserae : http://tesserae.caset.buffalo.edu/
+mike kestemont : https://github.com/mikekestemont/attic_orators
+paralogos : https://odysseuspolymetis.github.io/paralogos/
